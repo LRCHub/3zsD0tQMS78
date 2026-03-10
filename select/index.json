@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "フレ！フレ！オレ！(2023)",
+  "base_artist": "M!LK",
+  "createdAt": "2026-03-10T07:29:30.561061Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フレ!フレ!オレ!(2023)",
+      "artist": "M!LK",
+      "has_synced": false,
+      "path": "select/pl_01_フレ!フレ!オレ!(2023)_M!LK.txt"
+    }
+  ]
+}
